@@ -1,0 +1,17 @@
+this is a new file to install git
+
+yum install git -y
+
+git --version
+
+git config --global --list
+
+git add.
+
+git add*
+
+git remote add <Alias Name> <repository https url of repo
+
+git remote -v --> to verify that the remote repo maaped
+
+git push <aliasname> <branch, by default master>
