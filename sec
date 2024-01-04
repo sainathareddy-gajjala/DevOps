@@ -1,0 +1,9 @@
+vi firstraw
+  415  ls
+  416  git add firstraw
+  417  git status
+  418  git commit -m "firstraw"
+  419  bit branch -M main
+  420  git branch -M main
+  421  git remote add origin https://github.com/sainathareddy-gajjala/DevOps.git
+  422  git push -u origin main
